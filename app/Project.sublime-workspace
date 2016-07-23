@@ -1,0 +1,4716 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Error",
+				"ErrorModal"
+			],
+			[
+				"setQueeuI",
+				"setQueueItem"
+			],
+			[
+				"getFals",
+				"getFalstartMessage"
+			],
+			[
+				"setFalst",
+				"setFalstartMessage"
+			],
+			[
+				"setFals",
+				"setFalstartMessage"
+			],
+			[
+				"setFal",
+				"setFalstartMessage"
+			],
+			[
+				"JsonRes",
+				"JsonResponse"
+			],
+			[
+				"setFalstar",
+				"setFalstartMessage"
+			],
+			[
+				"Mail",
+				"MailileoBundle:Match"
+			],
+			[
+				"getRepo",
+				"getRepository"
+			],
+			[
+				"JsonRespo",
+				"JsonResponse"
+			],
+			[
+				"partne",
+				"partner.email"
+			],
+			[
+				"Json",
+				"JsonResponse"
+			],
+			[
+				"getFlash",
+				"getFlashBag"
+			],
+			[
+				"getSchem",
+				"getSchemeAndHttpHost〔function〕"
+			],
+			[
+				"validateChange",
+				"validateChangeEmailToken"
+			],
+			[
+				"crea",
+				"createFakeFriend"
+			],
+			[
+				"getCo",
+				"getContainer〔function〕"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"JsonRe",
+				"JsonResponse〔namespace〕"
+			],
+			[
+				"usercou",
+				"$usercountry〔variable〕"
+			],
+			[
+				"userint",
+				"$userintereststring〔variable〕"
+			],
+			[
+				"userin",
+				"$userinterestnames〔variable〕"
+			],
+			[
+				"getIn",
+				"getInterest"
+			],
+			[
+				"use",
+				"userinterestnames"
+			],
+			[
+				"getI",
+				"getInterests"
+			],
+			[
+				"setMa",
+				"setMaxResults"
+			],
+			[
+				"inque",
+				"$inqueue〔variable〕"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"getSin",
+				"getSingleScalarResult"
+			],
+			[
+				"Maili",
+				"MailileoBundle:User"
+			],
+			[
+				"getEn",
+				"getEntityManager〔function〕"
+			],
+			[
+				"userco",
+				"usercount"
+			],
+			[
+				"adFakeUse",
+				"addFakeUsersToQueue"
+			],
+			[
+				"getReposi",
+				"getRepository"
+			],
+			[
+				"findFake",
+				"findFakeUsers"
+			],
+			[
+				"responsi",
+				"responsivePriority"
+			],
+			[
+				"w2",
+				"w2\tw2"
+			],
+			[
+				"getRepositoru",
+				"getRepository('MailileoBundle:User"
+			],
+			[
+				"matches",
+				"matches"
+			],
+			[
+				"Dat",
+				"DataTables-1.10.11"
+			],
+			[
+				"json",
+				"json_encode($interests"
+			],
+			[
+				"fakeDa",
+				"fakeDataProgress〔variable〕"
+			],
+			[
+				"fakeData",
+				"fakeDataProgress〔variable〕"
+			],
+			[
+				"P",
+				"PDF_concat"
+			],
+			[
+				"edituser",
+				"$edituser〔variable〕"
+			],
+			[
+				"setAcc",
+				"setAcceptedMarketing"
+			],
+			[
+				"activematch",
+				"$activematchescount〔variable〕"
+			],
+			[
+				"archived_qi",
+				"archived_qitems"
+			],
+			[
+				"setPama",
+				"setParameter"
+			],
+			[
+				"user",
+				"userid,forgotid,expires"
+			],
+			[
+				"PASSWORD",
+				"PASSWORDRESET"
+			],
+			[
+				"register",
+				"registerid"
+			],
+			[
+				"w1",
+				"w1\tw1"
+			],
+			[
+				"Push",
+				"PushInterface〔interface〕"
+			],
+			[
+				"getEnviro",
+				"getEnvironment"
+			],
+			[
+				"validateSub",
+				"validateSubscriptionHash"
+			],
+			[
+				"switch",
+				"switch\tswitch …"
+			],
+			[
+				"no",
+				"nonexistentMatch〔variable〕"
+			],
+			[
+				"deac",
+				"deactivatedMatch〔variable〕"
+			],
+			[
+				"active",
+				"activeMatch〔variable〕"
+			],
+			[
+				"noneci",
+				"nonexistentMatch"
+			],
+			[
+				"deactivat",
+				"deactivatedMatch"
+			],
+			[
+				"getQueueI",
+				"getQueueItems"
+			],
+			[
+				"Container",
+				"ContainerAware"
+			],
+			[
+				"l",
+				"lcfirst"
+			],
+			[
+				"pausem",
+				"pausematcher"
+			],
+			[
+				"paus",
+				"pause_matcher"
+			],
+			[
+				"stoprou",
+				"$stoproulette〔variable〕"
+			],
+			[
+				"stoproule",
+				"$stoproulette〔variable〕"
+			],
+			[
+				"archi",
+				"$archived_qitems〔variable〕"
+			],
+			[
+				"foreac",
+				"foreach\tforeach …"
+			],
+			[
+				"com",
+				"comv\tcomments"
+			],
+			[
+				"queueRe",
+				"queueResult"
+			],
+			[
+				"JS",
+				"JsonResponse"
+			],
+			[
+				"getReposit",
+				"getRepository"
+			],
+			[
+				"border-t",
+				"border-top-right-radius"
+			],
+			[
+				"Js",
+				"JsonResponse〔namespace〕"
+			],
+			[
+				"date_defaul",
+				"date_default_timezone_set〔function〕"
+			],
+			[
+				"date_def",
+				"date_default_timezone_get〔function〕"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_get〔function〕"
+			],
+			[
+				"table",
+				"$this〔variable〕"
+			],
+			[
+				"repo",
+				"$reportscount〔variable〕"
+			],
+			[
+				"action",
+				"$actionedcount〔variable〕"
+			],
+			[
+				"actionedc",
+				"actionedcount"
+			],
+			[
+				"newcou",
+				"$newcount〔variable〕"
+			],
+			[
+				"newc",
+				"$newcount〔variable〕"
+			],
+			[
+				"Jso",
+				"JsonResponse〔namespace〕"
+			],
+			[
+				"getRepos",
+				"getRepository"
+			],
+			[
+				"J",
+				"JsonResponse〔namespace〕"
+			],
+			[
+				"setAccepted",
+				"setAcceptedMarketing"
+			],
+			[
+				"userIn",
+				"$userInterests〔variable〕"
+			],
+			[
+				"userInter",
+				"$userInterests〔variable〕"
+			],
+			[
+				"editu",
+				"$edituser〔variable〕"
+			],
+			[
+				"inter",
+				"$interestList〔variable〕"
+			],
+			[
+				"edi",
+				"$edituser〔variable〕"
+			],
+			[
+				"edit",
+				"$edituser〔variable〕"
+			],
+			[
+				"U",
+				"User〔class〕"
+			],
+			[
+				"En",
+				"Entity〔namespace〕"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"dobpa",
+				"$dobpattern〔variable〕"
+			],
+			[
+				"getDoc",
+				"getDoctrine"
+			],
+			[
+				"setLas",
+				"setLastlogin〔function〕"
+			],
+			[
+				"setConfi",
+				"setConfirmed〔function〕"
+			],
+			[
+				"pass",
+				"$passwordconfirm〔variable〕"
+			],
+			[
+				"passwordcon",
+				"$passwordconfirm〔variable〕"
+			],
+			[
+				"stmt",
+				"strtotime($thendate"
+			],
+			[
+				"ready",
+				"ready\t$(document).ready"
+			],
+			[
+				"JsonR",
+				"JsonResponse"
+			],
+			[
+				"acceptedM",
+				"acceptedMarketing"
+			],
+			[
+				"accept",
+				"acceptedTerms〔variable〕"
+			],
+			[
+				"genera",
+				"generateMailId〔function〕"
+			],
+			[
+				"jso",
+				"json_decode〔function〕"
+			],
+			[
+				"messa",
+				"$messageidmatch〔variable〕"
+			],
+			[
+				"reply",
+				"replymatch"
+			],
+			[
+				"preg_m",
+				"preg_match"
+			],
+			[
+				"SendGridC",
+				"SendGridController"
+			],
+			[
+				"users_passwordre",
+				"users_passwordreset"
+			],
+			[
+				"userforg",
+				"$userforgotid〔variable〕"
+			],
+			[
+				"getR",
+				"getRegisterId"
+			],
+			[
+				"array_reve",
+				"array_reverse〔function〕"
+			],
+			[
+				"getBeginning",
+				"getBeginningDate"
+			],
+			[
+				"generate",
+				"generateStats〔function〕"
+			],
+			[
+				"p",
+				"pack"
+			],
+			[
+				"findAllNon",
+				"findAllNonDeleted"
+			],
+			[
+				"re",
+				"ready\t$(document).ready"
+			],
+			[
+				"foreach",
+				"foreach\tforeach …"
+			],
+			[
+				"cre",
+				"createQuery〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "components/Main.jsx",
+			"settings":
+			{
+				"buffer_size": 725,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.jsx",
+			"settings":
+			{
+				"buffer_size": 495,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/Nav.jsx",
+			"settings":
+			{
+				"buffer_size": 1189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 1515,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					""
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Build & run sketch"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Build & run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 32-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 64-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a macosx application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 32-bit windows application"
+				],
+				[
+					"Packages/Processing/Processing 3.sublime-build",
+					"Export sketch as a 64-bit windows application"
+				]
+			],
+			[
+				"Packages/Processing/Processing 3.sublime-build",
+				"Build & run sketch"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Processing/Processing.sublime-build",
+					""
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 32-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 64-bit linux application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a macosx application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 32-bit windows application"
+				],
+				[
+					"Packages/Processing/Processing.sublime-build",
+					"Export sketch as a 64-bit windows application"
+				]
+			],
+			[
+				"Packages/Processing/Processing.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					""
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Build & run sketch"
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Build & run sketch fullscreen"
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Export sketch as a 32-bit linux application"
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Export sketch as a 64-bit linux application"
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Export sketch as a macosx application"
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Export sketch as a 32-bit windows application"
+				],
+				[
+					"Packages/processing-sublime-master/Processing 3.sublime-build",
+					"Export sketch as a 64-bit windows application"
+				]
+			],
+			[
+				"Packages/processing-sublime-master/Processing 3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "remov",
+		"selected_items":
+		[
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"gitgutt",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"Snippet: w",
+				"Snippet: warning1"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pag",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitgut",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"emovep",
+				"Package Control: Remove Package"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"yaml",
+				"Pretty YAML: Reformat (Pretty Print) YAML"
+			],
+			[
+				"php",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"symfony",
+				"Snippet: Symfony2 / Controller / Controller class"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"form",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"\tinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment"
+			],
+			[
+				"liverelo",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"liverel",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereload",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"rmovp",
+				"Package Control: Remove Package"
+			],
+			[
+				"lbrpl",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"lvrpl",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live rel",
+				"LiveReload: Help"
+			],
+			[
+				"live relo",
+				"LiveReload: Help"
+			],
+			[
+				"live reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live relo\\",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live reloa",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"livere",
+				"LiveReload: Self test"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"templ",
+				"Create file from Template"
+			],
+			[
+				"install pa ",
+				"Package Control: Install Package"
+			],
+			[
+				"synt ardu",
+				"Set Syntax: Arduino"
+			],
+			[
+				"synt",
+				"Set Syntax: Arduino"
+			],
+			[
+				"ardui",
+				"Set Syntax: Arduino"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Changelog"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"avr-g++",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/app",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/app/api",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/app/components",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/public",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/public/assets",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/public/assets/sass"
+	],
+	"file_history":
+	[
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/app/components/Nav.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/example.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/app/components/Weather/Message.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/app/components/Weather/Form.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/package.json",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/webpack.config.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/app/app.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/app/components/Main.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/app/components/Weather.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/app/components/ErrorModal.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/webpack.config.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/app/app.jsx",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/public/assets/sass/material-kit.scss",
+		"/Volumes/Data/Users/Konrad/Downloads/x_material_kit_free_v1.1.0/index.html",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/public/index.html",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/node_modules/react-bootstrap/dist/react-bootstrap.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/node_modules/csso/lib/compressor/restructure/prepare/processSelector.js",
+		"/Volumes/Data/Users/Konrad/Downloads/react-bs/index.html",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/Learning React/React Weather/node_modules/react-bootstrap-4/dist/react-bootstrap.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/index.html.twig",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/SettingsController.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/DashboardController.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/vendor/phpunit/phpunit-mock-objects/tests/MockObject/class_with_method_with_variadic_arguments.phpt",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/web/js/home_animations.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/web/js/front.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/base.html.twig",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/base-dash.html.twig",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/dashboard/roulette.html.twig",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/FrontController.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/modules/alerts.html.twig",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/UserController.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/RegistrationController.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Routes/front.yml",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/web/js/roulette.js",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/UserRepository.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/AppKernel.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/composer.json",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/LoginController.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/config/services.yml",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/config/config_dev.yml",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/vendor/monolog/monolog/src/Monolog/Logger.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/config/config.yml",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/users.html.twig",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/web/app.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/web/app_dev.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Hooks/MailHookController.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/login.html.twig",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/User.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/app/config/security.yml",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/var/cache/test/appTestDebugProjectContainer.php",
+		"/Volumes/Data/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/LogController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/vendor/composer/autoload_namespaces.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/dashboard/profile.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/web/less/custom.less",
+		"/Users/Konrad/Documents/Projects/mailileo/vendor/logentries/logentries-monolog-handler/src/Logentries/Handler/LogentriesHandler.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/base-dash.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/User.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/UserToken.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/dashboard/roulette.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/index.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/vendor/sensio/generator-bundle/Resources/skeleton/bundle/Extension.php.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/config/config.yml",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/DashboardController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/AdminController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Routes/hooks.yml",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/UserInterestRepository.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/base.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/web/js/form_components.js",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/login.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/Message.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/AppKernel.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/FAQItem.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/users.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/UserRepository.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Hooks/RouletteHookController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/UserController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/tests/AppBundle/Controller/RouletteControllerTest.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/RouletteController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/QueueItem.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/FalstartMessage.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Hooks/UserHookController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/config/services.yml",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/FormFunctions.php",
+		"/Users/Konrad/Documents/Projects/mailileo/composer.json",
+		"/Users/Konrad/Documents/Projects/mailileo/app/config/parameters.yml",
+		"/Users/Konrad/Documents/Projects/mailileo/web/js/roulette.js",
+		"/Users/Konrad/Documents/Projects/mailileo/web/app_dev.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/modules/feedback.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/web/less/variables.less",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/Twig/RouletteExtension.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/FrontController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/vendor/phpunit/phpunit/tests/TextUI/log-json-post-66021.phpt",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/TwigBundle/views/Exception/error503.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Routes/front.yml",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/reset-password.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/Avatar.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/credits.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/support.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/about.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/testdata.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/stats-user.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/stats-roulette.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/settings-site.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/reports.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/matches.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/admin/admin-roulette.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/register-complete.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/forgot-password.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/register.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/robots.txt",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/front/signup-complete.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/web/bower_components/Tweetie/api/config.php",
+		"/Users/Konrad/Documents/Projects/mailileo/web/js/front.js",
+		"/Users/Konrad/Documents/Projects/mailileo/web/js/profile.js",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/Engines/MailgunController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/UserInterest.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/Avatar.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/SecurityController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Entity/UserTokenRepository.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Modules/MailController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/README.md",
+		"/Users/Konrad/Documents/Projects/mailileo/vendor/mailgun/mailgun-php/src/Mailgun/Mailgun.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Hooks/MailHookController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/RegistrationController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Controller/LoginController.php",
+		"/Users/Konrad/Documents/Projects/mailileo/app/Resources/views/mail_templates/changeemail.html.twig",
+		"/Users/Konrad/Documents/Projects/mailileo/src/MailileoBundle/Routes/dashboard.yml",
+		"/Users/Konrad/Documents/Projects/mailileo/untitled.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/Konrad/Documents/Projects/mailileo/web/js",
+			"/Users/Konrad/Documents/Projects/mailileo/app",
+			"/Users/Konrad/Documents/Projects/mailileo/src",
+			"/Users/Konrad/Documents/Projects/mailileo/web/src",
+			"/Users/Konrad/Documents/Projects/mailileo/web/js",
+			"/Users/Konrad/Documents/Projects/mailileo/web",
+			"/Users/Konrad/Documents/Projects/mailileo/src",
+			"/Users/Konrad/Documents/Projects/mailileo",
+			"/Users/Konrad/Documents/Projects/mailileo/src",
+			"/Users/Konrad/Documents/Projects/mailileo/",
+			"/Users/Konrad/Documents/Projects/mailileo/app/Resources/",
+			"/Users/Konrad/Documents/Projects/mailileo/",
+			"/Users/Konrad/Documents/Projects/mailileo/src/",
+			"<project>/src/",
+			"<project>",
+			"produfo",
+			"/produfo",
+			"produfo",
+			"root"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"renderOverlay",
+			"class",
+			"/>\n",
+			"react",
+			"ReactBoots",
+			"class",
+			"mailileo",
+			"mailileo.png",
+			"how it work",
+			"include",
+			"mono",
+			"monolog.logger.debugging",
+			"dashboardcontrol",
+			"confi",
+			"isdele",
+			"user",
+			"avatar",
+			"date",
+			"timeago",
+			"toastr",
+			"modalFalstartLetter",
+			"flush",
+			"0",
+			"color: whit",
+			"showFalstartMessagePopup",
+			"avat",
+			"check",
+			"img",
+			"Stats",
+			"Settings",
+			"has-f",
+			"curso",
+			"btn-outline",
+			"Update",
+			"console.lo",
+			"genera",
+			"generat",
+			"echo",
+			"\\$this->setupUser",
+			"{\n",
+			"fakeclient",
+			"5c8g0w8drvfxkjf",
+			"order",
+			"jarson@me.com",
+			"remove",
+			"setupAnon()",
+			"setupAdmin()",
+			"glyphi",
+			"dump",
+			"Account",
+			"/account",
+			"user_up",
+			"form data-toggle=\"validator\" action=\"/account\" ",
+			"chosen",
+			"font",
+			"country",
+			"gender",
+			"chosen",
+			"timezone",
+			"interests",
+			"intere",
+			"dobField",
+			"profile-form-item-value",
+			"no",
+			"noma",
+			"navbar",
+			"shrink",
+			"brand",
+			"roulette-min",
+			"roulette",
+			"butt",
+			"setting",
+			"open",
+			"_fnFilter",
+			"sFilter",
+			"dataTables_filter",
+			"footabl",
+			"data",
+			"use strict",
+			"foot",
+			"i-ch",
+			"iche",
+			"{{",
+			"postdr",
+			"iche",
+			"footabl",
+			"toast",
+			"align",
+			"table",
+			"table_d",
+			"foot",
+			"table",
+			"methodName",
+			"prev",
+			"dump",
+			"function",
+			"prevent",
+			"captch",
+			"circle.rest",
+			"wrapper",
+			"about-soc",
+			"row",
+			"margin-left",
+			"shadow",
+			"whatis",
+			"letter",
+			"line",
+			"roulette.js",
+			"nickn",
+			"confi",
+			"',",
+			"'.",
+			"',",
+			"', ",
+			"report",
+			"settestmode($initialTestMode",
+			"nicknam",
+			"nickname",
+			"queue",
+			"dump",
+			";\n",
+			"admin/",
+			"messageBldr",
+			"navbar-st",
+			"navbar",
+			"ip",
+			"'';\n",
+			"reply\\.mail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"className",
+			"btn-link",
+			"Change",
+			"$this->removeUser();\\n$this->setupUser",
+			"' . $matchid . '",
+			"fake@test.com",
+			"setupUser('anon')",
+			"setupUser('admin')",
+			"/profile",
+			"form data-toggle=\"validator\" action=\"/account\" class=\"profile-form\"",
+			"profile-form-item-label",
+			"',\\n",
+			"setTestMode(false",
+			"bldr",
+			"mail.mail",
+			"#",
+			"datetime(",
+			"bindValue",
+			"bindParam",
+			"report.getId",
+			"',\\n\\n",
+			"getUserStats",
+			"getMatchStats",
+			"matches",
+			"ed }}",
+			"re }}",
+			"{{ ma",
+			"re }}",
+			"{{ ",
+			"{% endif %}",
+			"{% else %}",
+			"{% if",
+			"{{ ma",
+			"matches",
+			"[0].",
+			"{{ ",
+			"accounts_",
+			"[0].",
+			"[0]",
+			"[0].b",
+			"account",
+			"{% if",
+			"{% else %}",
+			"{% endif %}",
+			"{{ $1 }}",
+			"{{ $2 }}",
+			"{{ $1 }}",
+			"{{ ",
+			"registerId",
+			"set",
+			"is",
+			"match",
+			"item.getMatch.",
+			"',\\n",
+			"messageId",
+			"$details['$1']",
+			"',\\n\\n\\n\\n",
+			"\"$1\"",
+			"$1=\"/",
+			"$2",
+			"$1",
+			"",
+			"$1",
+			"'",
+			"web/",
+			"src=\"{{ asset('web/$1') }}\"",
+			"src=\"{{ asset('web$1') }}\"",
+			"src=\"{{ asset('web/$1') }}\"",
+			"src=\"asset('web/$1')\"",
+			"asset\\('web/",
+			"src=\"{{ asset('$1') }}\"",
+			"src=\"{% asset('$1') %}\"",
+			"link href=\"{{asset('$1')\" rel",
+			"$this->",
+			"",
+			"$this->debug",
+			"$this->$DBH",
+			"$DBH",
+			"$this->$sql",
+			"script src=\"{{ asset('$1')}}\"",
+			"script src=\"{{ asset($1)}}\"",
+			"front-letter",
+			"userDelay",
+			"matches",
+			"matches_",
+			"entries",
+			"col-sm-6 col-md-6 col-lg-3 col-xs-12",
+			"col-sm-12 col-md-6 col-lg-3",
+			"today",
+			"month",
+			"@media (max-width: 767px) {",
+			"skin-4",
+			"/images/lan",
+			"images/lan",
+			"\"",
+			"Josefin Sans",
+			"/templates/front/assets/img",
+			"\"/templates/front/assets/",
+			"../vendors",
+			"name",
+			"password-confirm",
+			"password",
+			"name",
+			"email",
+			"option",
+			", 'options' => 'alert-dismissable'),",
+			"email",
+			"templates/dashboard/img/",
+			"@import \"../../bower_components/bootstrap/less/",
+			">",
+			"<",
+			"",
+			"CharField(label=\"\", ",
+			"\\'",
+			"expandLink",
+			"progress",
+			"content",
+			"param_name",
+			"assets/img/100.png",
+			"fullwidth-lg",
+			"width: 66%",
+			"width: 33%",
+			"-5",
+			"$name",
+			"shrinkItem",
+			"$grid",
+			"fullWidth",
+			"grid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "components/Main.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								30
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.jsx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										393,
+										394
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										381,
+										382
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/Nav.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1087,
+								835
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1153,
+										1154
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										422,
+										423
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/Data/Users/Konrad/Documents/Projects/React Boilerplate/webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								457,
+								457
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1513,
+										1514
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										53,
+										54
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1427923985.532034":
+	{
+		"height": 100.0
+	},
+	"output.1427926752.648616":
+	{
+		"height": 100.0
+	},
+	"output.1427926822.727545":
+	{
+		"height": 100.0
+	},
+	"output.1427926874.143736":
+	{
+		"height": 100.0
+	},
+	"output.1427926944.852314":
+	{
+		"height": 100.0
+	},
+	"output.1428064697.553816":
+	{
+		"height": 100.0
+	},
+	"output.1428064835.812847":
+	{
+		"height": 100.0
+	},
+	"output.1428064905.094756":
+	{
+		"height": 100.0
+	},
+	"output.1428065013.784017":
+	{
+		"height": 100.0
+	},
+	"output.1428065026.889966":
+	{
+		"height": 100.0
+	},
+	"output.1428070123.78074":
+	{
+		"height": 100.0
+	},
+	"output.1428070149.70761":
+	{
+		"height": 100.0
+	},
+	"output.1428070298.581905":
+	{
+		"height": 100.0
+	},
+	"output.1428070361.653541":
+	{
+		"height": 100.0
+	},
+	"output.1428070412.370274":
+	{
+		"height": 100.0
+	},
+	"output.1428070561.227844":
+	{
+		"height": 100.0
+	},
+	"output.1428070620.319737":
+	{
+		"height": 100.0
+	},
+	"output.1428070646.497339":
+	{
+		"height": 100.0
+	},
+	"output.1428071072.60104":
+	{
+		"height": 100.0
+	},
+	"output.1428071095.161513":
+	{
+		"height": 100.0
+	},
+	"output.1428071479.567501":
+	{
+		"height": 100.0
+	},
+	"output.1428071519.585418":
+	{
+		"height": 100.0
+	},
+	"output.1428071537.287555":
+	{
+		"height": 100.0
+	},
+	"output.1428072237.394361":
+	{
+		"height": 100.0
+	},
+	"output.1428072637.475905":
+	{
+		"height": 100.0
+	},
+	"output.1428072660.173745":
+	{
+		"height": 100.0
+	},
+	"output.1428073896.103711":
+	{
+		"height": 100.0
+	},
+	"output.1428075030.132813":
+	{
+		"height": 100.0
+	},
+	"output.1428075432.019853":
+	{
+		"height": 100.0
+	},
+	"output.1428075484.496394":
+	{
+		"height": 100.0
+	},
+	"output.1428075500.682544":
+	{
+		"height": 100.0
+	},
+	"output.1428082482.694119":
+	{
+		"height": 100.0
+	},
+	"output.1428093742.3019":
+	{
+		"height": 100.0
+	},
+	"output.1428924979.640844":
+	{
+		"height": 100.0
+	},
+	"output.bootloader.1428072702.788905":
+	{
+		"height": 100.0
+	},
+	"output.bootloader.1428097300.057904":
+	{
+		"height": 100.0
+	},
+	"output.build|/Applications/Arduino.app/Contents/Java/examples/01.Basics/BareMinimum|1428098716.114506":
+	{
+		"height": 100.0
+	},
+	"output.build|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1428071134.175455":
+	{
+		"height": 100.0
+	},
+	"output.build|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1428071363.610367":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428064881.837195":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428064912.730196":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428070110.089133":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428070158.072556":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428070302.041159":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428070369.597422":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428070415.700432":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428070567.890469":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428070637.877054":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428072713.92622":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428073884.289609":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428074147.661594":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428074195.812576":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/Ard|1428074245.535842":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428531601.768602":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428098543.879476":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428098654.623484":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428098694.202085":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428098818.848493":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428075666.976429":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428075691.209611":
+	{
+		"height": 250.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428075723.856756":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428075780.219116":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428075862.659464":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428075877.970662":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428075934.906945":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076052.536414":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076138.700269":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076285.208117":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076397.202653":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076480.192818":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076674.456534":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076724.711755":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428076797.633965":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428077158.545102":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428077474.770422":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428077626.646446":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428077693.010326":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428078273.735628":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428078343.699046":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428078496.37294":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428078604.66545":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428078674.562004":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428078909.564458":
+	{
+		"height": 130.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428079633.491738":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428079663.541238":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428081792.683197":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428082170.266423":
+	{
+		"height": 207.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428082220.858333":
+	{
+		"height": 244.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428082258.80338":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428082328.971926":
+	{
+		"height": 251.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink/ziom|1428082492.602636":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink|1428075355.329873":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink|1428075367.37916":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink|1428075436.566087":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink|1428075487.393296":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/blink|1428075503.244301":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/jjj|1428074852.692649":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/jjj|1428074935.345198":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/jjj|1428075035.167129":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/ol|1428073914.709848":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/ol|1428073979.002873":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/ol|1428074039.729136":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/tescik|1428074288.588995":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/tescik|1428074325.297091":
+	{
+		"height": 337.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/tescik|1428074531.126195":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/tescik|1428074724.454879":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Arduino/tescik|1428074750.127845":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Projects/Arduino/Stuff/sketch_apr03a/test|1428071560.327906":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Projects/Arduino/Stuff/sketch_apr03a/test|1428071582.603521":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Projects/Arduino/Stuff/sketch_apr03a/test|1428071851.912922":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Projects/Arduino/Stuff/sketch_apr03a/test|1428072205.948745":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Projects/Arduino/Stuff/sketch_apr03a/test|1428072240.238201":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Projects/Arduino/Stuff/sketch_apr03a/test|1428072621.598856":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Documents/Projects/Arduino/Stuff/sketch_apr03a/test|1428072641.83787":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Library/Application Support/Sublime Text 3/Packages/Stino-new-stino/stino/pyarduino|1428075687.227217":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/Konrad/Library/Application Support/Sublime Text 3/Packages/Stino-new-stino/stino/pyarduino|1428076047.935962":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/Konrad/Library/Application Support/Sublime Text 3/Packages/Stino-new-stino/stino/pyarduino|1428076793.551261":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Konrad/Library/Application Support/Sublime Text 3/Packages/Stino-new-stino/stino/pyarduino|1428078601.256285":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/Konrad/Library/Application Support/Sublime Text 3/Packages/Stino-new-stino/stino/pyarduino|1428082253.922042":
+	{
+		"height": 0.0
+	},
+	"output.build|/tmp/Arduino/520935|1428098535.525651":
+	{
+		"height": 100.0
+	},
+	"output.build|/tmp/Arduino/546126|1427926926.55078":
+	{
+		"height": 100.0
+	},
+	"output.build|/tmp/Arduino/546126|1427926948.674703":
+	{
+		"height": 100.0
+	},
+	"output.build|/tmp/Arduino/569123|1428071098.57392":
+	{
+		"height": 100.0
+	},
+	"output.build|/tmp/Arduino/569123|1428071110.405058":
+	{
+		"height": 100.0
+	},
+	"output.build|/tmp/Arduino/932404|1428098650.938808":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1429957840.093363":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1429957920.180826":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1431542792.591254":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1431543062.43012":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432936921.722939":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432940201.554261":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432940232.528621":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432943035.29255":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432943050.934357":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432943177.178534":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432943217.51105":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432943227.808642":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432943234.955104":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432943239.344747":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432944460.106846":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432944472.281149":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432944482.08211":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432944793.465748":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/01.Basics/Blink|1432944807.154688":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428617574.058832":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428617673.176853":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428617692.113895":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428618597.815852":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428702108.319779":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428714176.111609":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428714762.669044":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428714778.762723":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428714794.235825":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428714803.483354":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428745809.296838":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428745818.264596":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428745852.34373":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428745874.279369":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428745880.399137":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428745925.373973":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428757177.320777":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428760196.098707":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428760232.72188":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428760304.278878":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428760424.963756":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428760433.827506":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428760546.216502":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428761384.571167":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428761529.88757":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428761654.994842":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428761775.247542":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428761872.340823":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428761952.547027":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428761987.834359":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428762030.177271":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428767130.764654":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428794684.092116":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428794690.609175":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428794744.433156":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428795809.568795":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428796665.545656":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/examples/04.Communication/Graph|1428796744.800182":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Applications/Arduino.app/Contents/Java/libraries/RobotIRremote/src|1429960379.549638":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/Ard|1428072687.569115":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/Ard|1428072691.146628":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428776810.474047":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428776827.432222":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428778420.268475":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428778430.298613":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428778439.914584":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428778447.40126":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428780952.099601":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428781718.612757":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428781729.868833":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428781764.554997":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428781924.112912":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428781939.054045":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428782030.214866":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428782036.453652":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428782131.541102":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428782212.155347":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428782219.722274":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1428941424.740327":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259632.917062":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259650.260264":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259819.414358":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259839.087907":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259888.08915":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259931.495005":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259937.895689":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430259983.621195":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260003.709513":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260029.773664":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260054.84478":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260185.637989":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260262.333325":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260407.957511":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260472.563819":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260494.748771":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260552.306473":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260659.696446":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260695.674928":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430260781.160235":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430334874.38921":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430334975.241848":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335385.300179":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335414.771324":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335619.469179":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335753.866238":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335869.308163":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335888.053065":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335904.183905":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430335934.633743":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336006.511431":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336023.09585":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336110.220195":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336165.265183":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336235.232294":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336259.302997":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336303.917687":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336314.397177":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430336334.507613":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339007.808288":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339075.765086":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339139.930865":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339147.970103":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339163.545507":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339193.584271":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339220.095388":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339415.96059":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339446.47154":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339467.807333":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339483.006859":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1430339495.485814":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431112285.220897":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431112316.924244":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431112536.58937":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431112705.77341":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431113584.747526":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431114300.737909":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431114341.145151":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431114523.054819":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431115636.418968":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431115645.868036":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431115708.087133":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431115733.7851":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431115838.272048":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431115973.684855":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1431115980.115859":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1432844633.999088":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1432844662.126632":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1432844678.478965":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1433258026.418732":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1433258415.683195":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1433258503.585873":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1433258519.561291":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1433258612.079595":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LEDStrip|1433258659.371797":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/LightRecording|1428696038.462155":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429976467.283727":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429976535.937186":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429976579.24788":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429976688.636148":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429976994.245848":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977006.258112":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977031.761096":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977065.790418":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977169.964444":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977184.779935":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977274.745059":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977306.495323":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977316.63098":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429977337.0577":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429983036.597804":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429983054.018966":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429983058.951188":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429983070.614639":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429983139.45217":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429983176.571046":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429983215.266085":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429984395.154424":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429984401.682407":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429984498.225165":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429984513.783755":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429985500.27663":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429985507.452492":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429985529.003932":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1429988050.662686":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430044920.862103":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430044928.285684":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430044961.166022":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430045233.281008":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430045259.352544":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430045288.591989":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430045302.816524":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430045311.863607":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430045342.951041":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430047905.574785":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050083.214069":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050090.452883":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050181.31711":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050343.201693":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050453.687115":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050464.933918":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050482.078848":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050543.781476":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430050554.726155":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430057551.670381":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430057557.518338":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/RemoteTest|1430260692.215948":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428520858.220017":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428520869.907028":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428522159.260396":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428522515.452844":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428522794.255867":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428531029.356688":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428531559.706884":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428531564.594983":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428531767.134127":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428531920.668408":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428531982.355186":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532008.035034":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532058.29808":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532323.964997":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532430.587505":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532544.825173":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532756.845019":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532765.55599":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532894.258867":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532916.106844":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ButtonTest|1428532925.394132":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559240.461808":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559303.219883":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559450.984738":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559493.760214":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559610.198031":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559765.564797":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559775.540117":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559881.642283":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428559888.786787":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428560000.159928":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428560311.874339":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428601069.48841":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428619125.550376":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428619363.817946":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428868382.127732":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428868422.998318":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1428924362.561824":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429919647.053995":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429919808.174897":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429919916.229902":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429919926.34331":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429919961.460337":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429954847.391288":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429954875.502332":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429954892.789968":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429954945.7171":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429955241.801072":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429955302.838958":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429957800.009282":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429959101.04062":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429959155.870758":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429976272.064764":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429976317.631483":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/PhotocellMeasurement|1429976356.871718":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428093633.139976":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428093672.050825":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428093684.186288":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428093713.209013":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428093758.240532":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428093776.873724":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094388.288248":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094448.798487":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094493.003999":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094662.993143":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094745.134222":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094779.859779":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094866.915075":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094906.314289":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428094945.944434":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095045.125581":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095202.249041":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095271.295192":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095358.02149":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095658.732116":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095730.090055":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095783.817158":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428095865.614692":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428096238.609473":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428096298.636531":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428096726.187252":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428096744.346524":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428096757.475299":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097021.730232":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097093.712013":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097143.275455":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097153.612827":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097164.423617":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097292.843631":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097330.402505":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097762.179856":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428097877.053328":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428098436.604016":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428098768.440228":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428174545.649714":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428174569.582234":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428174585.44604":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428226198.769638":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428226392.568178":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428226433.304418":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428226444.15112":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428226458.339877":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331415.747895":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331421.715586":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331478.449567":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331605.319265":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331712.341374":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331812.572717":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331877.536095":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428331976.153582":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428332039.48324":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428332194.653688":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428343648.67006":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428343690.818513":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428343727.716601":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428518279.292297":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428518294.020201":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/SerialTesting|1428518385.594359":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428079397.376123":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428079650.873631":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428079673.846283":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428079701.071838":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428079748.816365":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428079922.955991":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428080387.560641":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428080787.927043":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428080947.160271":
+	{
+		"height": 48.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428081062.934239":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428081193.120031":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428081369.891558":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428081411.551196":
+	{
+		"height": 152.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428081797.148712":
+	{
+		"height": 295.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428082064.843516":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428082082.664315":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428082390.294985":
+	{
+		"height": 73.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428082500.275401":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428082566.471154":
+	{
+		"height": 286.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428082582.795066":
+	{
+		"height": 91.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083089.745834":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083104.336462":
+	{
+		"height": 406.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083283.22438":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083322.228252":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083343.06342":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083439.823447":
+	{
+		"height": 131.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083491.055953":
+	{
+		"height": 488.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083553.707579":
+	{
+		"height": 306.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083589.073796":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083630.480889":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083707.274885":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083741.102348":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083763.695621":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083778.807426":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428083801.825665":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428088021.770104":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/blink/ziom|1428088112.229928":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/ol|1428073942.001051":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Arduino/ol|1428074124.114425":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Processing/CSVRecording|1428761513.214705":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Documents/Processing/CSVRecording|1428761768.11979":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Konrad/Downloads/Stino-new-stino/stino/pyarduino|1428080783.730609":
+	{
+		"height": 0.0
+	},
+	"output.upload|/Users/Konrad/Library/Application Support/Sublime Text 3/Packages/Stino-new-stino/stino/pyarduino|1428082488.518502":
+	{
+		"height": 0.0
+	},
+	"output.upload|/Users/Konrad/Library/Application Support/Sublime Text 3/Packages/Stino-new-stino/stino/pyarduino|1428083485.509378":
+	{
+		"height": 0.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430082789.177774":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430082794.31448":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430082803.164349":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430082944.351539":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430083003.926432":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430083537.917722":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430083544.620437":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430083575.875932":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430083580.811862":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430083616.108087":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430084009.180845":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430084168.664891":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430084436.336297":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430084887.092626":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430084979.786955":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430084993.539685":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430085065.217484":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430085253.788967":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430085417.505805":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430085519.592962":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430085601.359397":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430085623.89527":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430085788.308337":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086041.279308":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086179.724783":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086456.742115":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086477.191514":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086494.534969":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086513.30333":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086752.41096":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086757.722147":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086810.969049":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086839.952557":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430086875.743966":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087392.758456":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087396.43851":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087576.322883":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087602.451181":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087640.337812":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087647.865545":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087756.103543":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087851.669812":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430087996.417972":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430088209.078152":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430088460.586273":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430088539.512876":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430088799.612188":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430088833.459593":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430089020.127847":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090090.404056":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090165.378703":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090187.705229":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090232.288352":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090241.121259":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090284.8404":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090307.352655":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/170459|1430090364.726912":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/392849|1428074139.399093":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429959782.560048":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429959840.983728":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429960387.077249":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429960399.901037":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429960439.955471":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429974160.839855":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429975798.665092":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429975859.687104":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429975876.574372":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429975954.692063":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429976059.880197":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429976089.504357":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429976144.3494":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429976245.39504":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/553661|1429976258.914513":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/884182|1430050979.913048":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/884182|1430051012.85173":
+	{
+		"height": 100.0
+	},
+	"output.upload|/tmp/Arduino/93223|1428094474.94792":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "Project.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"material",
+				"public/assets/sass/material-kit.scss"
+			],
+			[
+				"message",
+				"app/components/Weather/Message.jsx"
+			],
+			[
+				"weather",
+				"app/components/Weather.jsx"
+			],
+			[
+				"form",
+				"app/components/Weather/Form.jsx"
+			],
+			[
+				"messag",
+				"React Weather/app/components/Weather/Message.jsx"
+			],
+			[
+				"messs",
+				"React Weather/node_modules/csso/lib/compressor/restructure/prepare/processSelector.js"
+			],
+			[
+				"main",
+				"React Weather/app/components/Main.jsx"
+			],
+			[
+				"nav",
+				"React Weather/app/components/Nav.jsx"
+			],
+			[
+				"react-bo",
+				"React Weather/node_modules/react-bootstrap/dist/react-bootstrap.js"
+			],
+			[
+				"index",
+				"react-bs/index.html"
+			],
+			[
+				"indexhtml",
+				"react-bs/index.html"
+			],
+			[
+				"appjsx",
+				"app/app.jsx"
+			],
+			[
+				"packajs",
+				"package.json"
+			],
+			[
+				"settingcontrol",
+				"src/MailileoBundle/Modules/SettingsController.php"
+			],
+			[
+				"dashcontrol",
+				"src/MailileoBundle/Controller/DashboardController.php"
+			],
+			[
+				"roultwig",
+				"app/Resources/views/dashboard/roulette.html.twig"
+			],
+			[
+				"frontcontrol",
+				"src/MailileoBundle/Controller/FrontController.php"
+			],
+			[
+				"basetwi",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"indextwig",
+				"app/Resources/views/front/index.html.twig"
+			],
+			[
+				"hometwig",
+				"vendor/phpunit/phpunit-mock-objects/tests/MockObject/class_with_method_with_variadic_arguments.phpt"
+			],
+			[
+				"homeanimjs",
+				"web/js/home_animations.js"
+			],
+			[
+				"frontjs",
+				"web/js/front.js"
+			],
+			[
+				"basetwig",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"security",
+				"app/config/security.yml"
+			],
+			[
+				"app_dev",
+				"web/app_dev.php"
+			],
+			[
+				"app",
+				"web/app.php"
+			],
+			[
+				"usershtmltwig",
+				"app/Resources/views/admin/users.html.twig"
+			],
+			[
+				"config",
+				"app/config/config.yml"
+			],
+			[
+				"configdev",
+				"app/config/config_dev.yml"
+			],
+			[
+				"service",
+				"app/config/services.yml"
+			],
+			[
+				"mailhookcontrol",
+				"src/MailileoBundle/Hooks/MailHookController.php"
+			],
+			[
+				"composerjs",
+				"composer.json"
+			],
+			[
+				"logger",
+				"vendor/monolog/monolog/src/Monolog/Logger.php"
+			],
+			[
+				"servic",
+				"app/config/services.yml"
+			],
+			[
+				"configyml",
+				"app/config/config.yml"
+			],
+			[
+				"appkernel",
+				"app/AppKernel.php"
+			],
+			[
+				"mailhook",
+				"src/MailileoBundle/Hooks/MailHookController.php"
+			],
+			[
+				"logcontrol",
+				"src/MailileoBundle/Modules/LogController.php"
+			],
+			[
+				"services",
+				"app/config/services.yml"
+			],
+			[
+				"mailhookcont",
+				"src/MailileoBundle/Hooks/MailHookController.php"
+			],
+			[
+				"configy",
+				"app/config/config.yml"
+			],
+			[
+				"front",
+				"src/MailileoBundle/Routes/front.yml"
+			],
+			[
+				"user",
+				"src/MailileoBundle/Entity/User.php"
+			],
+			[
+				"logintwig",
+				"app/Resources/views/front/login.html.twig"
+			],
+			[
+				"usercontrol",
+				"src/MailileoBundle/Modules/UserController.php"
+			],
+			[
+				"securit",
+				"app/config/security.yml"
+			],
+			[
+				"regiscontrol",
+				"src/MailileoBundle/Controller/RegistrationController.php"
+			],
+			[
+				"securi",
+				"app/config/security.yml"
+			],
+			[
+				"alertstwig",
+				"app/Resources/views/modules/alerts.html.twig"
+			],
+			[
+				"secur",
+				"app/config/security.yml"
+			],
+			[
+				"logincontrol",
+				"src/MailileoBundle/Controller/LoginController.php"
+			],
+			[
+				"rouljs",
+				"web/js/roulette.js"
+			],
+			[
+				"userrepo",
+				"src/MailileoBundle/Entity/UserRepository.php"
+			],
+			[
+				"usertoken",
+				"src/MailileoBundle/Entity/UserToken.php"
+			],
+			[
+				"cutomless",
+				"web/less/custom.less"
+			],
+			[
+				"profiletwig",
+				"app/Resources/views/dashboard/profile.html.twig"
+			],
+			[
+				"indextewig",
+				"vendor/sensio/generator-bundle/Resources/skeleton/bundle/Extension.php.twig"
+			],
+			[
+				"admincontrol",
+				"src/MailileoBundle/Controller/AdminController.php"
+			],
+			[
+				"rultwig",
+				"app/Resources/views/dashboard/roulette.html.twig"
+			],
+			[
+				"basedash",
+				"app/Resources/views/base-dash.html.twig"
+			],
+			[
+				"namespa",
+				"vendor/composer/autoload_namespaces.php"
+			],
+			[
+				"hook",
+				"src/MailileoBundle/Routes/hooks.yml"
+			],
+			[
+				"userrrepo",
+				"src/MailileoBundle/Entity/UserInterestRepository.php"
+			],
+			[
+				"formjs",
+				"web/js/form_components.js"
+			],
+			[
+				"hookyml",
+				"src/MailileoBundle/Routes/hooks.yml"
+			],
+			[
+				"formfunc",
+				"src/MailileoBundle/Modules/FormFunctions.php"
+			],
+			[
+				"servicyml",
+				"app/config/services.yml"
+			],
+			[
+				"userhook",
+				"src/MailileoBundle/Hooks/UserHookController.php"
+			],
+			[
+				"userstwig",
+				"app/Resources/views/admin/users.html.twig"
+			],
+			[
+				"basedashtwig",
+				"app/Resources/views/base-dash.html.twig"
+			],
+			[
+				"useerrepo",
+				"src/MailileoBundle/Entity/UserRepository.php"
+			],
+			[
+				"appkern",
+				"app/AppKernel.php"
+			],
+			[
+				"faqitem",
+				"src/MailileoBundle/Entity/FAQItem.php"
+			],
+			[
+				"basedastwig",
+				"app/Resources/views/base-dash.html.twig"
+			],
+			[
+				"compose",
+				"composer.json"
+			],
+			[
+				"dashocntrol",
+				"src/MailileoBundle/Controller/DashboardController.php"
+			],
+			[
+				"parame",
+				"app/config/parameters.yml"
+			],
+			[
+				"roulcontrtest",
+				"tests/AppBundle/Controller/RouletteControllerTest.php"
+			],
+			[
+				"roulcontrol",
+				"src/MailileoBundle/Modules/RouletteController.php"
+			],
+			[
+				"dash",
+				"src/MailileoBundle/Controller/DashboardController.php"
+			],
+			[
+				"roulhook",
+				"src/MailileoBundle/Hooks/RouletteHookController.php"
+			],
+			[
+				"queueit",
+				"src/MailileoBundle/Entity/QueueItem.php"
+			],
+			[
+				"roulettejs",
+				"web/js/roulette.js"
+			],
+			[
+				"oruljs",
+				"vendor/phpunit/phpunit/tests/TextUI/log-json-post-66021.phpt"
+			],
+			[
+				"roulext",
+				"src/MailileoBundle/Modules/Twig/RouletteExtension.php"
+			],
+			[
+				"customless",
+				"web/less/custom.less"
+			],
+			[
+				"variablles",
+				"web/less/variables.less"
+			],
+			[
+				"credit",
+				"app/Resources/views/front/credits.html.twig"
+			],
+			[
+				"supptwig",
+				"app/Resources/views/front/support.html.twig"
+			],
+			[
+				"aboutwig",
+				"app/Resources/views/front/about.html.twig"
+			],
+			[
+				"avatar",
+				"src/MailileoBundle/Entity/Avatar.php"
+			],
+			[
+				"regitwig",
+				"app/Resources/views/front/register.html.twig"
+			],
+			[
+				"dashbotwig",
+				"app/Resources/views/dashboard/profile.html.twig"
+			],
+			[
+				"dashtwig",
+				"app/Resources/views/base-dash.html.twig"
+			],
+			[
+				"credits",
+				"app/Resources/views/front/credits.html.twig"
+			],
+			[
+				"suppotwig",
+				"app/Resources/views/front/support.html.twig"
+			],
+			[
+				"registwig",
+				"app/Resources/views/front/register.html.twig"
+			],
+			[
+				"indextwi",
+				"app/Resources/views/front/index.html.twig"
+			],
+			[
+				"login",
+				"app/Resources/views/front/login.html.twig"
+			],
+			[
+				"fronttwig",
+				"app/Resources/views/front/index.html.twig"
+			],
+			[
+				"base",
+				"app/Resources/views/base.html.twig"
+			],
+			[
+				"fronytml",
+				"src/MailileoBundle/Routes/front.yml"
+			],
+			[
+				"fronttwi",
+				"app/Resources/views/front/index.html.twig"
+			],
+			[
+				"configphp",
+				"web/bower_components/Tweetie/api/config.php"
+			],
+			[
+				"frontyml",
+				"src/MailileoBundle/Routes/front.yml"
+			],
+			[
+				"register",
+				"app/Resources/views/front/register.html.twig"
+			],
+			[
+				"froncontrol",
+				"src/MailileoBundle/Controller/FrontController.php"
+			],
+			[
+				"profilewig",
+				"app/Resources/views/dashboard/profile.html.twig"
+			],
+			[
+				"error503",
+				"app/Resources/TwigBundle/views/Exception/error503.html.twig"
+			],
+			[
+				"mailguncontrol",
+				"src/MailileoBundle/Modules/Engines/MailgunController.php"
+			],
+			[
+				"profilejs",
+				"web/js/profile.js"
+			],
+			[
+				"formfucn",
+				"src/MailileoBundle/Modules/FormFunctions.php"
+			],
+			[
+				"usrcontrol",
+				"src/MailileoBundle/Modules/UserController.php"
+			],
+			[
+				"userinter",
+				"src/MailileoBundle/Entity/UserInterest.php"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"mailcnotrol",
+				"src/MailileoBundle/Modules/MailController.php"
+			],
+			[
+				"mailcontrol",
+				"src/MailileoBundle/Modules/MailController.php"
+			],
+			[
+				"ailgcontrol",
+				"src/MailileoBundle/Modules/Engines/MailgunController.php"
+			],
+			[
+				"mailgun",
+				"vendor/mailgun/mailgun-php/src/Mailgun/Mailgun.php"
+			],
+			[
+				"usertokenrepo",
+				"src/MailileoBundle/Entity/UserTokenRepository.php"
+			],
+			[
+				"securcontrol",
+				"src/MailileoBundle/Modules/SecurityController.php"
+			],
+			[
+				"secucontrol",
+				"src/MailileoBundle/Modules/SecurityController.php"
+			],
+			[
+				"mailhookcon",
+				"src/MailileoBundle/Hooks/MailHookController.php"
+			],
+			[
+				"error50",
+				"app/Resources/TwigBundle/views/Exception/error503.html.twig"
+			],
+			[
+				"userhookcontrol",
+				"src/MailileoBundle/Hooks/UserHookController.php"
+			],
+			[
+				"securcontr",
+				"src/MailileoBundle/Modules/SecurityController.php"
+			],
+			[
+				"changeemailtwig",
+				"app/Resources/views/mail_templates/changeemail.html.twig"
+			],
+			[
+				"fronyml",
+				"src/MailileoBundle/Routes/front.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/messpace/messpace.sublime-project"
+			],
+			[
+				"mail",
+				"~/Documents/Projects/mailileo/mailileo.sublime-project"
+			],
+			[
+				"mess",
+				"~/Documents/Projects/messpace/messpace.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
