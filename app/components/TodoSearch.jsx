@@ -5,9 +5,11 @@ var {FormControl, Checkbox} = require('react-bootstrap');
 
 var TodoSearch = React.createClass({
 	handleSearch: function() {
+		console.log('called');
 		var showCompleted = ReactDOM.findDOMNode(this.refs.showCompleted).checked;
 		var searchText = ReactDOM.findDOMNode(this.refs.searchText).value;
-		
+		console.log(showCompleted);
+		console.log(searchText);
 		this.props.onSearch(showCompleted, searchText);
 	},
 	render: function() {
