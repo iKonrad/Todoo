@@ -1,0 +1,40 @@
+
+.todo-task {
+	padding: 10px;
+	transition: all 0.5s ease;
+	&:hover {
+		cursor: pointer;
+		background: #f8f8f8;
+		border-radius: 6px;
+	}
+
+	cursor: pointer;
+	align-items: center;
+	display: flex;
+
+	p {
+		display: inline-block;
+		margin-left: 10px;
+	}
+
+	&-date {
+		color: #BFBFBF;
+		margin-left: 35px!important;
+		font-size: 0.9em;
+	}
+
+	&.todo-completed {
+		p {
+			text-decoration: line-through;
+			color: #d5d5d5;
+		}
+	}
+	
+}
+
+.todo-message {
+	text-align: center;
+	color: #aaaaaa;
+	font-size: 1.2em;
+	margin: 50px;
+}

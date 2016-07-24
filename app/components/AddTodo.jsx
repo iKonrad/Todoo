@@ -20,8 +20,9 @@ var AddTodo = React.createClass({
 	render: function() {
 		return (
 			<div>
+
 				<form onSubmit={this.onSubmit}>
-				<FormControl ref="todoText"/>
+				<FormControl ref="todoText" placeholder="What you need to do?" />
 				<Button className="btn-block" type="submit" bsStyle="info">Add</Button>
 				</form>
 			</div>
