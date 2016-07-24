@@ -12,11 +12,14 @@ require('react-bootstrap');
 
 require('style!css!sass!appStyle');
 
+var TodoApp = require('TodoApp');
+
 ReactDOM.render(
   <Router history={hashHistory}>
-  	<Route path="/" component={Main}>
+  	<Route path="/" component={TodoApp}>
   	</Route>
   </Router>,
   document.getElementById('app')
 );
+
 
