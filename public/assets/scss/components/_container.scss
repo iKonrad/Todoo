@@ -5,6 +5,7 @@ $light-grey: #EFEFEF;
 	border: 1px solid $light-grey;
 	padding: 0px 20px 20px 20px;
 	border-radius: 6px;
+	background: white;
 }
 
 .todo-element {
@@ -13,4 +14,8 @@ $light-grey: #EFEFEF;
 
 body {
 	background-color: white;
+}
+
+.main {
+	background: #f7f7f7;
 }

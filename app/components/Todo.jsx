@@ -1,44 +1,49 @@
 var React = require('react');
 var $ = require('jquery');
 var moment = require('moment');
-var Todo = React.createClass({
-	componentDidMount: function() {
-		// Refresh material elements
-		if (typeof $.material !== 'undefined') {
-			$.material.init();
-		}
-	},
+var {connect} = require('react-redux');
+var actions = require('actions');
 
-	render: function() {
-		var {text, id, completed, createdAt, completedAt} = this.props;
-		var todoClassName = completed ? 'checkbox todo-task todo-completed' : 'checkbox todo-task';
+export var Todo = React.createClass({
+    componentDidMount: function () {
+        // Refresh material elements
+        if (typeof $.material !== 'undefined') {
+            $.material.init();
+        }
+    },
 
-		var renderDate = () => {
-			var message = 'Created ';
-			var timestamp = createdAt;
-			
-			if (completed) {
-				message = 'Completed ';
-				timestamp = completedAt;
-			}
+    render: function () {
+        var {text, id, completed, createdAt, completedAt, dispatch} = this.props;
+        var todoClassName = completed ? 'checkbox todo-task todo-completed' : 'checkbox todo-task';
 
-			return message + moment.unix(timestamp).format('MMM Do YYYY @ h:mm a');
-		};
+        var renderDate = () => {
+            var message = 'Created ';
+            var timestamp = createdAt;
 
-		return(
-				<div className={todoClassName} >
-					<label>
+            if (completed) {
+                message = 'Completed ';
+                timestamp = completedAt;
+            }
 
-						<input type="checkbox" ref="c" defaultChecked={completed} onChange={() => { this.props.onToggle(id) }}/>
+            return message + moment.unix(timestamp).format('MMM Do YYYY @ h:mm a');
+        };
+
+        return (
+            <div className={todoClassName}>
+                <label>
+
+                    <input type="checkbox" ref="c" defaultChecked={completed} onClick={() => {
+                        dispatch(actions.toggleTodo(id));
+                    }} />
 
 
-						<p style={{'marginBottom': '-10px'}}>{text}</p><br />
-						<p className="todo-task-date">{renderDate()}</p>
+                    <p style={{'marginBottom': '-10px'}}>{text}</p><br />
+                    <p className="todo-task-date">{renderDate()}</p>
 
-					</label> 
-				</div>
-		);
-	}
+                </label>
+            </div>
+        );
+    }
 });
 
-module.exports = Todo;
+export default connect()(Todo);

@@ -40,6 +40,9 @@ module.exports = {
 				'bootstrapjs': 'bootstrap/dist/js/bootstrap.js',
 				'tetherjs': 'node_modules/tether/dist/js/tether.min.js',
 				'appStyle': 'public/assets/scss/main.scss',
+				'actions': 'app/actions/actions.jsx',
+				'reducers': 'app/reducers/reducers.jsx',
+				'configureStore': 'app/store/configureStore.jsx',
 			},
 			extensions: ['', '.js', '.jsx']
 		},
