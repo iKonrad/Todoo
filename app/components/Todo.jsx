@@ -34,12 +34,12 @@ export var Todo = React.createClass({
 
                     <input type="checkbox" ref="c" defaultChecked={completed} onClick={() => {
                         dispatch(actions.toggleTodo(id));
-                    }} />
+                    }}/>
 
 
                     <p style={{'marginBottom': '-10px'}}>{text}</p><br />
                     <p className="todo-task-date">{renderDate()}</p>
-
+                    <p>najs</p>
                 </label>
             </div>
         );
