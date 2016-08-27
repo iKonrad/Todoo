@@ -19,8 +19,6 @@ store.subscribe(() => {
     console.log('New state', store.getState());
 })
 
-store.dispatch(actions.addTodo('Clean the yeard'));
-store.dispatch(actions.setSearchText('yard'));
 
 var TodoApp = require('TodoApp');
 
