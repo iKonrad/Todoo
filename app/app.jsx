@@ -24,6 +24,7 @@ store.dispatch(actions.setSearchText('yard'));
 
 var TodoApp = require('TodoApp');
 
+
 ReactDOM.render(
     <Provider store={store}>
         <Router history={hashHistory}>

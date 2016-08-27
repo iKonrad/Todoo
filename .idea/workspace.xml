@@ -1,25 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22812884-c1f0-4bc3-bc40-2da19863eeda" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="22812884-c1f0-4bc3-bc40-2da19863eeda" name="Default" comment="Reformatting code&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ef69e791ae57424b1901a28e2ad4d708.cur" afterPath="$PROJECT_DIR$/ef69e791ae57424b1901a28e2ad4d708.cur" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/arrow-left.cur" afterPath="$PROJECT_DIR$/public/assets/img/arrow-left.cur" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/arrow-left.png" afterPath="$PROJECT_DIR$/public/assets/img/arrow-left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/arrow-right.cur" afterPath="$PROJECT_DIR$/public/assets/img/arrow-right.cur" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/arrow-right.png" afterPath="$PROJECT_DIR$/public/assets/img/arrow-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/avatar.jpg" afterPath="$PROJECT_DIR$/public/assets/img/avatar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/bg.jpg" afterPath="$PROJECT_DIR$/public/assets/img/bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/bg2.jpeg" afterPath="$PROJECT_DIR$/public/assets/img/bg2.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/bg3.jpeg" afterPath="$PROJECT_DIR$/public/assets/img/bg3.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/bg4.jpeg" afterPath="$PROJECT_DIR$/public/assets/img/bg4.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/christian.jpg" afterPath="$PROJECT_DIR$/public/assets/img/christian.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/city.jpg" afterPath="$PROJECT_DIR$/public/assets/img/city.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/default-avatar.png" afterPath="$PROJECT_DIR$/public/assets/img/default-avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris0.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris0.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris1.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris3.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris4.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris5.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris6.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris7.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris8.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/chris9.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/chris9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/examples/city.jpg" afterPath="$PROJECT_DIR$/public/assets/img/examples/city.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/AD.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/AD.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/AE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/AE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/AG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/AG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/AM.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/AM.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/AR.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/AR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/AT.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/AT.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/AU.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/AU.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/BE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/BE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/BF.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/BF.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/BG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/BG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/BO.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/BO.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/BR.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/BR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CD.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CD.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CH.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CH.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CL.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CM.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CM.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CN.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CO.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CO.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/CZ.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/CZ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/DE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/DE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/DJ.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/DJ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/DK.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/DK.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/DZ.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/DZ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/EE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/EE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/EG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/EG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/ES.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/ES.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/FI.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/FI.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/FR.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/FR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/GA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/GA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/GB.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/GB.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/GM.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/GM.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/GT.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/GT.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/HN.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/HN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/HT.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/HT.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/HU.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/HU.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/ID.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/ID.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/IE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/IE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/IL.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/IL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/IN.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/IN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/IQ.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/IQ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/IR.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/IR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/IT.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/IT.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/JM.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/JM.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/JO.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/JO.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/JP.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/JP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/KG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/KG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/KN.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/KN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/KP.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/KP.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/KR.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/KR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/KW.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/KW.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/KZ.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/KZ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/LA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/LA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/LB.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/LB.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/LC.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/LC.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/LS.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/LS.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/LU.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/LU.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/LV.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/LV.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/MG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/MG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/MK.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/MK.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/ML.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/ML.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/MM.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/MM.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/MT.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/MT.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/MX.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/MX.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/NA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/NA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/NE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/NE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/NG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/NG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/NI.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/NI.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/NL.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/NL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/NO.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/NO.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/OM.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/OM.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/PA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/PA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/PE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/PE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/PG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/PG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/PK.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/PK.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/PL.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/PL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/PT.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/PT.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/PY.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/PY.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/QA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/QA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/RO.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/RO.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/RU.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/RU.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/RW.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/RW.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/SA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/SA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/SE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/SE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/SG.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/SG.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/SL.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/SL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/SN.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/SN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/SO.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/SO.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/SV.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/SV.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/TD.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/TD.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/TJ.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/TJ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/TL.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/TL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/TR.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/TR.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/TZ.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/TZ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/UA.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/UA.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/US.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/US.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/VE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/VE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/VN.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/VN.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/flags/YE.png" afterPath="$PROJECT_DIR$/public/assets/img/flags/YE.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/kendall.jpg" afterPath="$PROJECT_DIR$/public/assets/img/kendall.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/landing.jpg" afterPath="$PROJECT_DIR$/public/assets/img/landing.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/logo.png" afterPath="$PROJECT_DIR$/public/assets/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/marc.jpg" afterPath="$PROJECT_DIR$/public/assets/img/marc.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/profile.jpg" afterPath="$PROJECT_DIR$/public/assets/img/profile.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/2b2d3305846a11b1d9efb8fbbe4c319a868790da/_plugin-datepicker.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/2b2d3305846a11b1d9efb8fbbe4c319a868790da/_plugin-datepicker.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/2b2d3305846a11b1d9efb8fbbe4c319a868790da/_plugin-dropdownjs.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/2b2d3305846a11b1d9efb8fbbe4c319a868790da/_plugin-dropdownjs.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/2b2d3305846a11b1d9efb8fbbe4c319a868790da/_plugin-nouislider.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/2b2d3305846a11b1d9efb8fbbe4c319a868790da/_plugin-nouislider.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_alerts.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_alerts.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_buttons.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_buttons.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_cards.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_cards.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_carousel.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_carousel.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_checkboxes.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_checkboxes.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_colors.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_colors.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_core.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_core.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_dialogs.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_dialogs.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_dividers.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_dividers.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_dropdown.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_dropdown.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_example-pages.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_example-pages.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_footers.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_footers.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_form.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_form.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_images.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_images.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_info-areas.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_info-areas.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_inputs-size.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_inputs-size.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_inputs.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_inputs.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_labels.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_labels.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_mixins.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_mixins.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_navbar.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_navbar.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_pagination.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_pagination.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_panels.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_panels.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_pills.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_pills.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_popups.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_popups.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_progress.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_progress.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_radios.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_radios.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_ripples.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_ripples.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_sections.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_sections.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_shadows.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_shadows.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_tabs.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_tabs.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_togglebutton.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_togglebutton.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_typography.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_typography.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_variables.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_variables.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_variables_bootstrap.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/a7ec5124770e319f43c23757defd01a637122027/_variables_bootstrap.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/.sass-cache/c234411f16d442300b63d7089c085e4faf874681/material-kit.scssc" afterPath="$PROJECT_DIR$/public/assets/sass/.sass-cache/c234411f16d442300b63d7089c085e4faf874681/material-kit.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Todoo.iml" afterPath="$PROJECT_DIR$/.idea/Todoo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Project.sublime-project" afterPath="$PROJECT_DIR$/app/Project.sublime-project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Project.sublime-workspace" afterPath="$PROJECT_DIR$/app/Project.sublime-workspace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/actions/actions.jsx" afterPath="$PROJECT_DIR$/app/actions/actions.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/api/TodoAPI.jsx" afterPath="$PROJECT_DIR$/app/api/TodoAPI.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.jsx" afterPath="$PROJECT_DIR$/app/app.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/AddTodo.jsx" afterPath="$PROJECT_DIR$/app/components/AddTodo.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Todo.jsx" afterPath="$PROJECT_DIR$/app/components/Todo.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/TodoApp.jsx" afterPath="$PROJECT_DIR$/app/components/TodoApp.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/TodoList.jsx" afterPath="$PROJECT_DIR$/app/components/TodoList.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/TodoSearch.jsx" afterPath="$PROJECT_DIR$/app/components/TodoSearch.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Todoo.sublime-project" afterPath="$PROJECT_DIR$/app/components/Todoo.sublime-project" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Todoo.sublime-workspace" afterPath="$PROJECT_DIR$/app/components/Todoo.sublime-workspace" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/reducers/reducers.jsx" afterPath="$PROJECT_DIR$/app/reducers/reducers.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/store/configureStore.jsx" afterPath="$PROJECT_DIR$/app/store/configureStore.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/actions.test.jsx" afterPath="$PROJECT_DIR$/app/tests/actions.test.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/components/AddTodo.test.jsx" afterPath="$PROJECT_DIR$/app/tests/components/AddTodo.test.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/components/Todo.test.jsx" afterPath="$PROJECT_DIR$/app/tests/components/Todo.test.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/components/TodoApp.test.jsx" afterPath="$PROJECT_DIR$/app/tests/components/TodoApp.test.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/components/TodoList.test.jsx" afterPath="$PROJECT_DIR$/app/tests/components/TodoList.test.jsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/components/TodoSearch.test.jsx" afterPath="$PROJECT_DIR$/app/tests/components/TodoSearch.test.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests/reducers.test.jsx" afterPath="$PROJECT_DIR$/app/tests/reducers.test.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.codekit" afterPath="$PROJECT_DIR$/config.codekit" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/assets/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/demo.css" afterPath="$PROJECT_DIR$/public/assets/css/demo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/material-kit.css" afterPath="$PROJECT_DIR$/public/assets/css/material-kit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/material-kit.css.map" afterPath="$PROJECT_DIR$/public/assets/css/material-kit.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap-datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/assets/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/js/jquery.min.js" afterPath="$PROJECT_DIR$/public/assets/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/js/material-kit.js" afterPath="$PROJECT_DIR$/public/assets/js/material-kit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/js/nouislider.min.js" afterPath="$PROJECT_DIR$/public/assets/js/nouislider.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_carousel.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_carousel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_dropdown.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_dropdown.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_example-pages.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_example-pages.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_footers.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_footers.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_images.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_images.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_info-areas.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_info-areas.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_pagination.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_pagination.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_pills.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_pills.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_sections.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_sections.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/_variables_bootstrap.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/_variables_bootstrap.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/sass/material-kit/plugins/_plugin-datepicker.scss" afterPath="$PROJECT_DIR$/public/assets/sass/material-kit/plugins/_plugin-datepicker.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/scss/base/_variables.scss" afterPath="$PROJECT_DIR$/public/assets/scss/base/_variables.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/scss/components/_container.scss" afterPath="$PROJECT_DIR$/public/assets/scss/components/_container.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/scss/components/_task.scss" afterPath="$PROJECT_DIR$/public/assets/scss/components/_task.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/scss/main.scss" afterPath="$PROJECT_DIR$/public/assets/scss/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bundle.js" afterPath="$PROJECT_DIR$/public/bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
+    <list id="8848dc32-fc81-4574-9d66-f79e1377b75c" name="Rejected commit: Default" comment="Reformatting code&#10;" />
     <ignored path="Todoo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -38,49 +248,66 @@
     <favorites_list name="Todoo" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TodoList.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Todo.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/components/Todo.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="AddTodo.jsx" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/components/AddTodo.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="reducers.jsx" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/reducers/reducers.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-64">
+                  <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Konrad &lt;jarson@me.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/components/TodoApp.jsx" />
-        <option value="$PROJECT_DIR$/app/components/TodoList.jsx" />
-        <option value="$PROJECT_DIR$/app/components/Todo.jsx" />
+        <option value="$PROJECT_DIR$/public/assets/scss/twojstary.php" />
+        <option value="$PROJECT_DIR$/app/najs.php" />
+        <option value="$PROJECT_DIR$/app/tests/components/TodoApp.test.jsx" />
+        <option value="$PROJECT_DIR$/app/tests/components/Todo.test.jsx" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
         <option value="$PROJECT_DIR$/app/app.jsx" />
+        <option value="$PROJECT_DIR$/app/components/Todo.jsx" />
+        <option value="$PROJECT_DIR$/app/components/TodoList.jsx" />
+        <option value="$PROJECT_DIR$/app/components/TodoApp.jsx" />
+        <option value="$PROJECT_DIR$/app/reducers/reducers.jsx" />
+        <option value="$PROJECT_DIR$/app/components/AddTodo.jsx" />
       </list>
     </option>
   </component>
@@ -97,10 +324,35 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="605" />
-    <option name="y" value="87" />
-    <option name="width" value="1199" />
-    <option name="height" value="926" />
+    <option name="x" value="1282" />
+    <option name="width" value="1278" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -115,7 +367,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="false" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -127,12 +379,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Todoo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -147,19 +413,27 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="todo.jsx&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/components/Todo.jsx&#10;appjsx&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/app.jsx&#10;todo&#9;null&#9;null&#10;todolist&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/components/TodoList.jsx&#10;todoapp&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/components/TodoApp.jsx&#10;TodoList&#9;null&#9;null&#10;TodoApp&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/components/TodoApp.jsx" />
+    <property name="SearchEverywhereHistoryKey" value="todoapp&#9;null&#9;null&#10;todotes&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/tests/components/Todo.test.jsx&#10;keymap&#9;ACTION&#9;Help.KeymapReference&#10;Todo&#9;ACTION&#9;ActivateTODOToolWindow&#10;todo.jsx&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/components/Todo.jsx&#10;appjsx&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/app.jsx&#10;todo&#9;null&#9;null&#10;todolist&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/components/TodoList.jsx&#10;TodoList&#9;null&#9;null&#10;TodoApp&#9;FILE&#9;file:///Volumes/Data/Users/Konrad/Documents/Projects/Learning React/Todoo/app/components/TodoApp.jsx" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -226,12 +500,34 @@
       <workItem from="1470261344479" duration="2235000" />
       <workItem from="1470293902113" duration="492000" />
       <workItem from="1470294522051" duration="140000" />
-      <workItem from="1470294676533" duration="20000" />
+      <workItem from="1470294676533" duration="3294000" />
+      <workItem from="1470339069065" duration="1998000" />
+      <workItem from="1470348170366" duration="4158000" />
+      <workItem from="1470380084209" duration="546000" />
+      <workItem from="1470380885677" duration="245000" />
+      <workItem from="1470381151444" duration="1004000" />
+      <workItem from="1470425140914" duration="1640000" />
+      <workItem from="1470950883822" duration="994000" />
+      <workItem from="1471085750555" duration="243000" />
+      <workItem from="1471143719770" duration="56000" />
+      <workItem from="1472171491281" duration="640000" />
+      <workItem from="1472174163166" duration="243000" />
+      <workItem from="1472174414658" duration="101000" />
+      <workItem from="1472174524166" duration="212000" />
+      <workItem from="1472229207209" duration="4529000" />
     </task>
+    <task id="LOCAL-00001" summary="Reformatting code&#10;">
+      <created>1470338741464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470338741464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3122000" />
+    <option name="totallyTimeSpent" value="23005000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -243,25 +539,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="605" y="87" width="1199" height="926" extended-state="0" />
+    <frame x="1282" y="0" width="1278" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24937448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24100156" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288448" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905483" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -297,40 +594,53 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reformatting code&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reformatting code&#10;" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/app.jsx">
+    <entry file="file://$PROJECT_DIR$/app/components/Todo.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="720">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <marker date="1472333010000" expanded="true" signature="200:1386" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="237:371" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="323:365" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="398:1384" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="614:912" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="721:817" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="944:1367" ph="&lt;div/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="992:1348" ph="&lt;label/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1021:1178" ph="&lt;input/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1094:1175" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
+    <entry file="file://$PROJECT_DIR$/app/components/Todo.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="58">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <marker date="1472333010000" expanded="true" signature="200:1386" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="237:371" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="323:365" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="398:1384" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="614:912" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="721:817" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="944:1367" ph="&lt;div/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="992:1348" ph="&lt;label/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1021:1178" ph="&lt;input/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1094:1175" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -338,15 +648,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1472333010000" expanded="true" signature="200:1386" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="237:371" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="323:365" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="398:1384" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="614:912" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="721:817" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="944:1367" ph="&lt;div/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="992:1348" ph="&lt;label/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1021:1178" ph="&lt;input/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1094:1175" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.jsx">
+    <entry file="file://$PROJECT_DIR$/app/components/Todo.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1472333010000" expanded="true" signature="200:1386" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="237:371" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="323:365" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="398:1384" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="614:912" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="721:817" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="944:1367" ph="&lt;div/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="992:1348" ph="&lt;label/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1021:1178" ph="&lt;input/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1094:1175" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+    <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/components/Todo.test.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/components/Todo.test.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TodoApp.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -357,18 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/TodoApp.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -376,14 +744,227 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/components/Todo.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TodoApp.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/twojstary.php" />
+    <entry file="file://$PROJECT_DIR$/app/najs.php" />
+    <entry file="file://$PROJECT_DIR$/public/assets/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/img/flags/NA.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/configureStore.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/components/TodoApp.test.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tests/components/Todo.test.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+    <entry file="file://$PROJECT_DIR$/app/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <marker date="1472331529000" expanded="true" signature="287:388" ph="//..." />
+            <marker date="1472331529000" expanded="true" signature="501:552" ph="{...}" />
+            <marker date="1472331529000" expanded="true" signature="712:879" ph="&lt;Provider/&gt;" />
+            <marker date="1472331529000" expanded="true" signature="745:863" ph="&lt;Router/&gt;" />
+            <marker date="1472331529000" expanded="true" signature="788:845" ph="&lt;Route/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/actions/actions.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <marker date="1470013880000" expanded="true" signature="43:100" ph="{...}" />
+            <marker date="1470013880000" expanded="true" signature="53:97" ph="{&quot;type&quot;: 'SET_SEARCH_TEXT'...}" />
+            <marker date="1470013880000" expanded="true" signature="165:214" ph="{...}" />
+            <marker date="1470013880000" expanded="true" signature="175:211" ph="{&quot;type&quot;: 'TOGGLE_SHOW_COMPLETED'...}" />
+            <marker date="1470013880000" expanded="true" signature="248:292" ph="{...}" />
+            <marker date="1470013880000" expanded="true" signature="258:289" ph="{&quot;type&quot;: 'ADD_TODO'...}" />
+            <marker date="1470013880000" expanded="true" signature="327:372" ph="{...}" />
+            <marker date="1470013880000" expanded="true" signature="337:369" ph="{&quot;id&quot;: id...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TodoList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/api/TodoAPI.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <marker date="1469392636000" expanded="true" signature="45:506" ph="{...}" />
+            <marker date="1469392636000" expanded="true" signature="73:181" ph="{...}" />
+            <marker date="1469392636000" expanded="true" signature="99:178" ph="{...}" />
+            <marker date="1469392636000" expanded="true" signature="204:385" ph="{...}" />
+            <marker date="1469392636000" expanded="true" signature="283:324" ph="{...}" />
+            <marker date="1469392636000" expanded="true" signature="335:341" ph="{...}" />
+            <marker date="1469392636000" expanded="true" signature="444:504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/Todo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <marker date="1472333010000" expanded="true" signature="200:1386" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="237:371" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="323:365" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="398:1384" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="614:912" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="721:817" ph="{...}" />
+            <marker date="1472333010000" expanded="true" signature="944:1367" ph="&lt;div/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="992:1348" ph="&lt;label/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1021:1178" ph="&lt;input/&gt;" />
+            <marker date="1472333010000" expanded="true" signature="1094:1175" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/TodoApp.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <marker date="1472334506000" expanded="true" signature="272:3643" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="307:442" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="324:435" ph="{&quot;searchText&quot;: ''...}" />
+            <marker date="1472334506000" expanded="true" signature="480:531" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="568:912" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="592:904" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="613:894" ph="[...]" />
+            <marker date="1472334506000" expanded="true" signature="668:880" ph="{&quot;text&quot;: text...}" />
+            <marker date="1472334506000" expanded="true" signature="969:1104" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="993:1095" ph="{&quot;showCompleted&quot;: showCompleted...}" />
+            <marker date="1472334506000" expanded="true" signature="1130:3641" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="1341:1484" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="1402:1472" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="1554:1756" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="1615:1744" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="1840:2067" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="1887:1929" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="1968:2009" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="2015:2056" ph="{...}" />
+            <marker date="1472334506000" expanded="true" signature="2100:3624" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2122:3393" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2219:3369" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2270:3342" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2326:2385" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2414:3310" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2575:3273" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2644:2800" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="2837:3017" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="3054:3234" ph="&lt;div/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="3410:3605" ph="&lt;footer/&gt;" />
+            <marker date="1472334506000" expanded="true" signature="3458:3579" ph="&lt;div/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/AddTodo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/reducers/reducers.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding />
         </state>
       </provider>

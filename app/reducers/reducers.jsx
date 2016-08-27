@@ -38,13 +38,15 @@ export var todosReducer = (state = [], action) => {
 			var oldtodo = state.filter((todo) => todo.id === action.id);
 			return state.map((todo) => {
 				if (todo.id === action.id) {
-					var nextCompleted = !todo.nextCompleted;
+					var nextCompleted = !todo.completed;
 
 					return {
 						...todo,
 						completed: nextCompleted,
 						completedAt: nextCompleted ? moment().unix() : undefined
 					}
+				} else {
+					return todo;
 				}
 			});
 		break;

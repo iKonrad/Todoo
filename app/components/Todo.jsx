@@ -39,7 +39,6 @@ export var Todo = React.createClass({
 
                     <p style={{'marginBottom': '-10px'}}>{text}</p><br />
                     <p className="todo-task-date">{renderDate()}</p>
-                    <p>najs</p>
                 </label>
             </div>
         );

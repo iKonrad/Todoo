@@ -6,5 +6,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="react-DefinitelyTyped" level="project" />
+    <orderEntry type="library" name="react-bootstrap-DefinitelyTyped" level="project" />
+    <orderEntry type="library" name="react-autosuggest-DefinitelyTyped" level="project" />
+    <orderEntry type="library" name="expect-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="mocha-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="node_modules" level="project" />
   </component>
 </module>

@@ -1,6 +1,7 @@
 var React = require('react');
 
-var Todo = require('Todo');
+
+import Todo from 'Todo';
 
 var {connect} = require('react-redux');
 
@@ -29,10 +30,11 @@ var TodoList = React.createClass({
     }
 });
 
+
 module.exports = connect(
     (state) => {
         return {
-          todos: state.todos
+            todos: state.todos
         };
     }
 )(TodoList);
