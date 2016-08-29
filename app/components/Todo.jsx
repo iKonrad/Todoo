@@ -33,7 +33,7 @@ export var Todo = React.createClass({
                 <label>
 
                     <input type="checkbox" ref="c" defaultChecked={completed} onClick={() => {
-                        dispatch(actions.toggleTodo(id));
+                        dispatch(actions.startToggleTodo(id, !completed));
                     }}/>
 
 

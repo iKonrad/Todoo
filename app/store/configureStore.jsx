@@ -1,16 +1,17 @@
-var redux = require('redux');
+import * as redux from 'redux';
+import thunk from 'redux-thunk';
 
-var {searchReducer, showCompletedReducer, todosReducer} = require('reducers');
+import {searchReducer, showCompletedReducer, todosReducer} from 'reducers';
 
-export var configure = () => {
+
+export var configure = (initialState = {}) => {
 	var reducer = redux.combineReducers({
 		searchText: searchReducer,
 		showCompleted: showCompletedReducer,
 		todos: todosReducer
 	});
 
-	var store = redux.createStore(reducer, redux.compose(
-			window.devToolsExtension ? window.devToolsExtension() : f => f
-			));
-	return store;
+	return redux.createStore(reducer, initialState, redux.compose(
+        redux.applyMiddleware(thunk),
+        window.devToolsExtension ? window.devToolsExtension() : f => f ));
 };

@@ -32,6 +32,7 @@ module.exports = {
 				'./app/api',
 			],
 			alias : {
+				'app': 'app',
 				Main: 'app/components/Main.jsx',
 				Nav: 'app/components/Nav.jsx',
 				materialJS: 'public/assets/js/material.min.js',

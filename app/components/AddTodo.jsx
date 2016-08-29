@@ -14,7 +14,7 @@ export var AddTodo = React.createClass({
 		var text = ReactDOM.findDOMNode(this.refs.todoText).value;
 
 		if (text.length > 0) {
-			dispatch(actions.addTodo(text));
+			dispatch(actions.startAddTodo(text));
 			ReactDOM.findDOMNode(this.refs.todoText).value = '';
 		} else {
 			ReactDOM.findDOMNode(this.refs.todoText).focus();

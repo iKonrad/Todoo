@@ -6,13 +6,14 @@ import Todo from 'Todo';
 var {connect} = require('react-redux');
 var TodoAPI = require('TodoAPI');
 
-var TodoList = React.createClass({
+export var TodoList = React.createClass({
 
     render: function () {
 
         var {todos, showCompleted, searchText} = this.props;
+        console.log(todos);
         var renderTodos = () => {
-
+            console.log('length', todos.length)
             if (todos.length === 0) {
                 return <p className="todo-message">Nothing to do</p>;
             }
